@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-otter-ai, otter-pro, otter-ai-2026, otterpilot, ai-transcription, meeting-notes, speaker-id, pro-software-2026, trial-software, windows-software-2026                                
+otter-ai, otter-pro, otter-ai-2026, otterpilot, ai-transcription, meeting-notes, speaker-id, pro-software-2026, trial-software, windows-software-2026                                 
